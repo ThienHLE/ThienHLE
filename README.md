@@ -11,7 +11,7 @@ I'm a Computer Science student at the University of Arkansas–Fort Smith, gradu
 
 ## Coursework
 
-Course assignments and labs will be linked here by class as I publish them. Each class repository can group work in folders such as `assignments/`, `labs/`, and `notes/`.
+Course assignments and labs will be linked here by class as I publish them.
 
 ## Technologies
 
